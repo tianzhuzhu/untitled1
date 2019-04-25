@@ -18,7 +18,6 @@ public class appleStack {
         l1 = scanner.nextLine();
         String[] s2 = l1.split(" ");
         l1 = scanner.nextLine();
-
         String[] s3 = l1.split(" ");
         l1 = scanner.nextLine();
         int m = Integer.parseInt(s3[0]);
